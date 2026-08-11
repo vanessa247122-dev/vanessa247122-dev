@@ -9,7 +9,7 @@ I enjoy using data to solve business problems, build financial models, and turn 
 
 Finance: Financial Modeling · Time Value of Money · Discounted Cash Flow · Sensitivity Analysis
 
-Analytics: Excel · Python · SQL · Tableau · RapidMiner
+Analytics: Excel · Python · SQL · Tableau · RapidMiner · RStudio
 
 Other: Data Visualization · Predictive Modeling · Data Cleaning · Business Analysis
 
