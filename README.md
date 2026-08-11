@@ -14,30 +14,31 @@ Analytics: Excel · Python · SQL · Tableau · Power BI · RapidMiner
 Other: Data Visualization · Predictive Modeling · Data Cleaning · Business Analysis
 
 📂 Featured Projects
+
 💰 Finance
 
-[https:/c/Phased-Transportation-Financial-Analysis](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Phased_Transportation_Financial_Analysis)
+[Phased-Transportation-Financial-Analysis](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Phased_Transportation_Financial_Analysis)
 Five-year financial analysis comparing transportation strategies using financial modeling, TVM, discounted cash flow, and sensitivity analysis.
 
 🤖 Predictive Analytics
 
-Hotel Booking Cancellation Prediction
+[Hotel Booking Cancellation Prediction](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Hotel-Booking-Cancellation-Prediction)
 Predictive modeling project using decision trees, parameter optimization, cross-validation, and model evaluation.
 
 📊 Business Intelligence
 
-Capital Health Hospital Analysis
+[Capital Health Hospital Analysis](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Capital-Health-Hospital-Analysis)
 Team-based analysis comparing three hospitals using data cleaning, Tableau dashboards, heatmaps, and sensitivity analysis.
 
 🏠 Real Estate Analytics
 
-Real Estate House Price Prediction
+[Real Estate House Price Prediction](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Real%20Estate%20House%20Price%20Prediction)
 Python-based regression project focused on predicting house prices from property characteristics.
 
 📁 Full Portfolio
 
-View My Finance & Analytics Portfolio →
+[View My Finance & Analytics Portfolio →](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio)
 
 🔗 Connect
 
-LinkedIn
+[LinkedIn](www.linkedin.com/in/vanessanegretevega)
