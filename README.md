@@ -1,16 +1,43 @@
-## Hi there 👋
+Vanessa Negrete-Vega
+Finance & Business Analytics
 
-<!--
-**vanessa247122-dev/vanessa247122-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance and Business Analytics graduate interested in financial analysis, data analytics, and business intelligence.
 
-Here are some ideas to get you started:
+I enjoy using data to solve business problems, build financial models, and turn complex information into clear, actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+
+Finance: Financial Modeling · Time Value of Money · Discounted Cash Flow · Sensitivity Analysis
+
+Analytics: Excel · Python · SQL · Tableau · Power BI · RapidMiner
+
+Other: Data Visualization · Predictive Modeling · Data Cleaning · Business Analysis
+
+📂 Featured Projects
+💰 Finance
+
+Phased Transportation Financial Analysis
+Five-year financial analysis comparing transportation strategies using financial modeling, TVM, discounted cash flow, and sensitivity analysis.
+
+🤖 Predictive Analytics
+
+Hotel Booking Cancellation Prediction
+Predictive modeling project using decision trees, parameter optimization, cross-validation, and model evaluation.
+
+📊 Business Intelligence
+
+Capital Health Hospital Analysis
+Team-based analysis comparing three hospitals using data cleaning, Tableau dashboards, heatmaps, and sensitivity analysis.
+
+🏠 Real Estate Analytics
+
+Real Estate House Price Prediction
+Python-based regression project focused on predicting house prices from property characteristics.
+
+📁 Full Portfolio
+
+View My Finance & Analytics Portfolio →
+
+🔗 Connect
+
+LinkedIn
