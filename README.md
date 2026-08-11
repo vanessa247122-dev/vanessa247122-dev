@@ -1,17 +1,6 @@
-Vanessa Negrete-Vega
-Finance & Business Analytics
+Hi, I'm Vanessa, a Finance & Business Analytics graduate interested in financial analysis, data analytics, and using data to make better business decisions.
 
-Finance and Business Analytics graduate interested in financial analysis, data analytics, and business intelligence.
-
-I enjoy using data to solve business problems, build financial models, and turn complex information into clear, actionable insights.
-
-🛠️ Technical Skills
-
-Finance: Financial Modeling · Time Value of Money · Discounted Cash Flow · Sensitivity Analysis
-
-Analytics: Excel · Python · SQL · Tableau · RapidMiner · RStudio
-
-Other: Data Visualization · Predictive Modeling · Data Cleaning · Business Analysis
+This portfolio includes projects I've worked on throughout my coursework, competitions, and independent work. My projects cover financial modeling, data visualization, predictive analytics, business intelligence, and real estate.
 
 📂 Featured Projects
 
@@ -23,7 +12,7 @@ Five-year financial analysis comparing transportation strategies using financial
 🤖 Predictive Analytics
 
 [Hotel Booking Cancellation Prediction](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Hotel-Booking-Cancellation-Prediction)
-Predictive modeling project using decision trees, parameter optimization, cross-validation, and model evaluation.
+Predictive modeling project exploring hotel cancellation patterns using decision trees, optimization, cross-validation, and model evaluation.
 
 📊 Business Intelligence
 
@@ -39,6 +28,15 @@ Python-based regression project focused on predicting house prices from property
 
 [Real Estate DataFest Competition](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Real-Estate-DataFest)
 72-hour team data competition analyzing real estate data using Excel, Python, Tableau, and Canva, with a focus on data cleaning, research, visualization, and analytical problem-solving.
+
+🛠️ Skills
+
+Finance: Financial Modeling · Time Value of Money · Discounted Cash Flow · Sensitivity Analysis
+
+Analytics: Excel · Python · SQL · Tableau · Power BI · RapidMiner
+
+Other: Data Cleaning · Predictive Modeling · Data Visualization · Business Analysis
+
 
 📁 Full Portfolio
 
