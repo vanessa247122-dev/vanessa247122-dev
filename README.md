@@ -16,7 +16,7 @@ Other: Data Visualization · Predictive Modeling · Data Cleaning · Business An
 📂 Featured Projects
 💰 Finance
 
-Phased Transportation Financial Analysis
+[Phased Transportation Financial Analysis](https:/c/Phased-Transportation-Financial-Analysis)
 Five-year financial analysis comparing transportation strategies using financial modeling, TVM, discounted cash flow, and sensitivity analysis.
 
 🤖 Predictive Analytics
