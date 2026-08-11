@@ -38,7 +38,7 @@ Python-based regression project focused on predicting house prices from property
 🏢 DataFest Competition
 
 [Real Estate DataFest Competition](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Real-Estate-DataFest)
-72-hour team data competition involving data cleaning, research, data visualization, and analysis using Excel, Python, Tableau, and Canva. Contributed to data cleaning, visual development, research, and breaking the project into an actionable analytical process for the team.
+72-hour team data competition analyzing real estate data using Excel, Python, Tableau, and Canva, with a focus on data cleaning, research, visualization, and analytical problem-solving.
 
 📁 Full Portfolio
 
