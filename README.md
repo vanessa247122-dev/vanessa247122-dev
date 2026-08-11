@@ -41,4 +41,4 @@ Python-based regression project focused on predicting house prices from property
 
 🔗 Connect
 
-[LinkedIn](www.linkedin.com/in/vanessanegretevega)
+[LinkedIn](www.linkedin.com/in/vanessanegretevega](https://www.linkedin.com/in/vanessanegretevega/)
