@@ -35,6 +35,11 @@ Team-based analysis comparing three hospitals using data cleaning, Tableau dashb
 [Real Estate House Price Prediction](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Real%20Estate%20House%20Price%20Prediction)
 Python-based regression project focused on predicting house prices from property characteristics.
 
+🏢 DataFest Competition
+
+[Real Estate DataFest Competition](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio/tree/main/Real-Estate-DataFest)
+72-hour team data competition involving data cleaning, research, data visualization, and analysis using Excel, Python, Tableau, and Canva. Contributed to data cleaning, visual development, research, and breaking the project into an actionable analytical process for the team.
+
 📁 Full Portfolio
 
 [View My Finance & Analytics Portfolio →](https://github.com/vanessa247122-dev/Finance-Analytics-Portfolio)
